@@ -1,0 +1,10 @@
+# Python
+__pycache__
+
+# IDEA configs
+.idea/
+
+# misc or otherwise large files
+ignore/
+*.json
+*.csv
